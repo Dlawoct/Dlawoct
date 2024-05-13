@@ -26,14 +26,9 @@
 
 <h3 align='center'>🛠️ Stacks & Tools</h3>
 <div align='center'>
-  https://camo.githubusercontent.com/490ec25c999c0f1ad7030171341ae30524a85981a57a99d373aee5283ee3e8f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d3030353939433f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465
-https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534
-</div>
-<div align='center'>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp;
 </div>
 
 <br/>
