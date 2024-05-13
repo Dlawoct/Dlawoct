@@ -1,9 +1,3 @@
-<div align='center'>
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=GyuwonSong&fontAlign=70&fontAlignY=40&fontSize=50&fontColor=ffffff)
-
-</div>
-
 <h3 align='center'>
   <em> Hi </em> 
   </h3>
