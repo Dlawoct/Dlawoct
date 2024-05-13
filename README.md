@@ -5,7 +5,7 @@
 </div>
 
 <h3 align='center'>
-  <em> Hi, I'm Gyuwon </em> 🙌
+  <em> Hi </em> 
   </h3>
 
 <br/>
@@ -56,7 +56,7 @@
 </div>
 <h3 align='center'>About Me & Contact</h3>
 <div align='center'>
-  <a href="https://github.com/gyuwonsong/"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://github.com/dlawoct/"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://velog.io/@aldrn3333/"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="mailto:alswo3333@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyuwon0722@kookmin.ac.kr"/></a>
 </div>
