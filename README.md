@@ -1,9 +1,3 @@
-<h3 align='center'>
-  <em> Hi </em> 
-  </h3>
-
-<br/>
-
 <h3 align='center'>🏫 Experience & Social Activity</h3>
 
 <div align='center'>
@@ -32,11 +26,8 @@
 
 <h3 align='center'>🛠️ Stacks & Tools</h3>
 <div align='center'>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  https://camo.githubusercontent.com/490ec25c999c0f1ad7030171341ae30524a85981a57a99d373aee5283ee3e8f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d3030353939433f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465
+https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534
 </div>
 <div align='center'>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
