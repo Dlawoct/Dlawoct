@@ -7,17 +7,18 @@
     </div>
     <h3 align='center'>🏫 Experience & Social Activity</h3>
     <div align='center'>
-    |소속 및 단체|활동 기간|내용|
-    |---|---|---|
-    |국민대학교|2021.03 ~|국민대학교 소프트웨어학부 재학|
-    |이프 (IF)|2021.03 ~ 2021.11|국민대학교 소프트웨어융합대학 제5대 학생회 총무부 부원|
-    |커넥트 (CONNECT)|2024.03 ~|국민대학교 소프트웨어융합대학 제8대 학생회 기획부 부원|
+|소속 및 단체|활동 기간|내용|
+|---|---|---|
+|국민대학교|2021.03 ~|국민대학교 소프트웨어학부 재학|
+|이프 (IF)|2021.03 ~ 2021.11|국민대학교 소프트웨어융합대학 제5대 학생회 총무부 부원|
+|커넥트 (CONNECT)|2024.03 ~|국민대학교 소프트웨어융합대학 제8대 학생회 기획부 부원|
+
     </div>
     <br/>
     <h3 align='center'>💻 Projects</h3>
     <div align='center'>
-    | 기간 | 내용 |
-    | --- | --- |
+| 기간 | 내용 |
+| --- | --- |
     </div>
     <br/>
     <div align= "center">
@@ -39,11 +40,9 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <div align='center'>
-    [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=alswo3333)](https://solved.ac/profile/alswo3333) 
-    <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Dlawoct&custom_title=Dlawoct's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlawoct&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
+    [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=alswo3333)](https://solved.ac/profile/alswo3333) 
     </div>
     
