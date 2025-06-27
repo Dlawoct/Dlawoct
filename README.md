@@ -44,20 +44,13 @@
 
 <br/>
 
-<h3 align="center">💻 Projects</h3>
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>기간</th>
-        <th>내용</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- 프로젝트 내용을 여기에 추가하세요 -->
-    </tbody>
-  </table>
-</div>
+## 💻 Projects
+
+<div align='left'>
+
+|                                                                 | 𝑆𝑡𝑎𝑟𝑡 𝐷𝑎𝑡𝑒 | 𝐸𝑛𝑑 𝐷𝑎𝑡𝑒 | 𝑁𝑎𝑚𝑒                                                          | 𝐷𝑒𝑠𝑐𝑟𝑖𝑝𝑡𝑖𝑜𝑛 | 𝑃𝑎𝑟𝑡 |
+|-----------------------------------------------------------------|---------------------|-----------------|-------------------------------------------------------------------|------------------------|---------------------|
+| <img src="https://avatars.githubusercontent.com/t/12708211?s=116&v=4" alt="icon" width="100" height="100"> | 2025. 03    | 2025. 06| [CLASSPICK](https://github.com/classpick-alpha)          | 강의실 예약 플랫폼       | BackEnd|
 
 <br/>
 
