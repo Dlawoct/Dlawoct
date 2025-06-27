@@ -7,7 +7,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">KMU 21 김민재</div>
 </div>
 
-<h3 align="center">🏫 Experience & Social Activity</h3>
+<h2 align="center">🏫 Experience & Social Activity</h2>
 <div align="center">
   <table>
     <thead>
@@ -44,7 +44,7 @@
 
 <br/>
 
-<h3 align="center"> 💻 Projects </h3>
+<h2 align="center"> 💻 Projects </h2>
 
 <div align='center'>
 
