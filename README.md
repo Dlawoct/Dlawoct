@@ -44,7 +44,7 @@
 
 <br/>
 
-## 💻 Projects
+<h3 align="center"> 💻 Projects </h3>
 
 <div align='center'>
 
