@@ -18,10 +18,10 @@
 <br>
 
 ###  Projects
-- 국민대학교 강의실 예약 플랫폼 "ClassPick" BackEnd 개발 (2025.03 – 06)
+- 강의실 예약 플랫폼 "ClassPick" BackEnd 개발 (2025.03 – 06)
 - 인지 훈련을 위한 사물놀이 플랫폼 "Arinori" BackEnd 개발 (2025.06 – 11)
 - AI 기반 아이디어 검증 플랫폼 "Ideantify" BackEnd 개발 (2025.07 – 11)
-- 국민대학교 동아리 정보 플랫폼 "KookDongE" BackEnd 개발 (2025.09 – 12)
+- 동아리 정보 플랫폼 "KookDongE" BackEnd 개발 (2025.09 – 12)
 
 <br>
 
