@@ -39,7 +39,7 @@
 <br>
 
 ### Certification
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="45568b32-d9f3-4e3b-b003-9af315e2bfaa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+(https://www.credly.com/badges/45568b32-d9f3-4e3b-b003-9af315e2bfaa/public_url)
 
 <br>
 
