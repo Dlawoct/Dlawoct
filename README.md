@@ -39,7 +39,7 @@
 <br>
 
 ### Certification
-(https://www.credly.com/badges/45568b32-d9f3-4e3b-b003-9af315e2bfaa/public_url)
+[![SAA](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/45568b32-d9f3-4e3b-b003-9af315e2bfaa/public_url)
 
 <br>
 
