@@ -38,6 +38,11 @@
 
 <br>
 
+### Certification
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="45568b32-d9f3-4e3b-b003-9af315e2bfaa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<br>
+
 ### About
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alswo3333@kookmin.ac.kr)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://aldrn3333.tistory.com/)
