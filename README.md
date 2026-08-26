@@ -21,12 +21,9 @@
 - 강의실 예약 플랫폼 "ClassPick" BackEnd 개발 (2025.03 – 06)
 - 인지 훈련을 위한 사물놀이 플랫폼 "Arinori" BackEnd 개발 (2025.06 – 11)
 - AI 기반 아이디어 검증 플랫폼 "Ideantify" BackEnd 개발 (2025.07 – 11)
-- 동아리 정보 플랫폼 "KookDongE" BackEnd 개발 (2025.12 – )
-
-<br>
-
-###  Awards
-- WINK x EBTI AI 웹 헤커톤 장려상 수상 (2025.11)
+- 동아리 정보 플랫폼 "KookDongE" BackEnd 개발 (2025.12 – 2026.03)
+- AI 기반 맞춤형 자소서 생성 플랫폼 "LogI" BackEnd 개발 (2026.03 - 06)
+- 투명한 공동자금 관리를 위한 디지털 시금고 "Moeum" FrontEnd/BackEnd/Contract 개발 (2026.06 - 07)
 
 <br>
 
